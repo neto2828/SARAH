@@ -240,3 +240,22 @@ footer {
   background-color: transparent;
   border-color: transparent;
 }
+
+.carousel-caption {
+ color: #6D8BC6;
+ -webkit-text-stroke: .25px #000;
+}
+
+.descripcion-proyecto{
+  color: var(--verde) !important; 
+ }
+ 
+ .btn {
+  background-color: #6D8BC6 !important;
+  color: #fff !important;
+ }
+ 
+ .btn:hover {
+  background-color: #76BB6A !important;
+  color: #fff !important;
+ }
